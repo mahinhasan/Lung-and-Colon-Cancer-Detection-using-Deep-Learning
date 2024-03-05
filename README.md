@@ -16,18 +16,18 @@
 
 Welcome to the **Medical Disease Classification** repository! This project focuses on the development of a robust medical disease classification system, employing Machine Learning (ML) algorithms such as Convolutional Neural Networks (CNN) and OpenCV. The system is designed to facilitate accurate disease diagnosis through the analysis of medical images.
 
-## Introduction
+# Introduction
 
 The field of medical diagnosis is pivotal in the healthcare industry. This project addresses the need for efficient and accurate disease identification by harnessing the power of ML and computer vision. Our primary approach involves leveraging CNNs for automatic feature extraction from medical images, enabling precise predictions based on identified patterns.
 
-## Features
+# Features
 
 - Disease classification based on medical images
 - Convolutional Neural Networks for image feature extraction
 - Utilization of OpenCV for image preprocessing
 - Compatibility with popular editors: Jupyter Notebook, Visual Studio Code, and Vim
 
-## Technologies Used
+# Technologies Used
 
 - Convolutional Neural Networks (CNN)
 - OpenCV
